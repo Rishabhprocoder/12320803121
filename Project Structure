@@ -1,0 +1,11 @@
+ecommerce-api/
+├── node_modules/
+├── src/
+│   ├── routes/
+│   │   └── products.js
+│   ├── services/
+│   │   └── ecommerceService.js
+│   ├── app.js
+│   └── config.js
+├── package.json
+└── README.md

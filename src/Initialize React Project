@@ -1,0 +1,2 @@
+npx create-react-app product-showcase --template typescript
+cd product-showcase
